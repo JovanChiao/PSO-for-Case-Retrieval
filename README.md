@@ -8,5 +8,5 @@ Case retrieval model based on PSO algorithm.
     (5) Categorical-type data: Calculated using the formula sim(a,b)=1-|a-b|/6<br>
     <br>
   2. Implementation of the PSO algorithm
-<br>
+  <br>
   3. Plotting fitness-number of iterations
